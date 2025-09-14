@@ -1,19 +1,4 @@
-<<<<<<< HEAD
 Tanvir sholakuri  
 Raihan  madhupur
 anika tangail
 sabbir germany
-
-=======
-
-
-
-
-
-
-
-
-
-
-hello world
->>>>>>> table-version
